@@ -25,8 +25,8 @@
 |---|---|
 | 源码 | <https://github.com/rainbowdoor1006-sketch/rainbow-mc> |
 | 全部版本 | <https://github.com/rainbowdoor1006-sketch/rainbow-mc/releases> |
-| 最新版本（0.2.49） | <https://github.com/rainbowdoor1006-sketch/rainbow-mc/releases/latest> |
-| 下载安装包 | <https://github.com/rainbowdoor1006-sketch/rainbow-mc/releases/download/v0.2.49/RAINBOWMC-0.2.49-setup.exe> |
+| 最新版本（0.2.53） | <https://github.com/rainbowdoor1006-sketch/rainbow-mc/releases/latest> |
+| 下载安装包 | <https://github.com/rainbowdoor1006-sketch/rainbow-mc/releases/download/v0.2.53/RAINBOWMC-0.2.53-setup.exe> |
 
 ---
 
